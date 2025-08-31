@@ -23,18 +23,18 @@ source install.sh
 * Clone this repo
 
 ```bash
-git clone 
+git clone https://github.com/Ting-Devin-Han/CLIP4Geo.git
 cd CLIP4Geo
 ```
 
 * Download and Unzip the data
 
 * Google Drive
-  * https://
+  * https://drive.google.com/drive/folders/1g2xrnr8b_Kr1FQqhiISEmebjiUAqXEwg?usp=drive_link
 
 * Baidu Disk
-  * https://
-  * Password: 
+  * https://pan.baidu.com/s/1-ubSV02Fke4ATN_QiaqFeQ
+  * Password: ggwm
 
 ```bash
 unzip data/CityVerse.zip
@@ -62,8 +62,10 @@ data
 ````
 
 * Download the pretrained model
-* Google Drive
-  * https://
+* Baidu Disk
+  * https://pan.baidu.com/s/1xIOxPhIn5eWUQIMHKZTFqQ
+  * Password: vw76
+
 ```bash
 
 ```
