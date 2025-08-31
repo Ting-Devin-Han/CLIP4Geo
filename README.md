@@ -4,12 +4,6 @@
 
 ## CLIP4Geo
 
-### Installation
-
-* Install Pytorch following instructions from the official website (We tested in torch 2.0.1 with CUDA 11.8 and 2.1.0 with CUDA 12.1)
- 
-## GeoRSCLIP Model
-
 ### Requirements
 <ul>
 <li>Python 3.8.0 or above</li>
